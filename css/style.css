@@ -23,15 +23,9 @@
 	background-color: #3c4248;
 }
 .left_box .tab {
-	width: 20px;
 	height: 16px;
-	border-radius: 8px;
 	position: relative;
 	top: 18px;
-	color: #000;
-	font-size: 12px;
-	line-height: 16px;
-	text-align: center;
 }
 .right_box {
 	position: fixed;
